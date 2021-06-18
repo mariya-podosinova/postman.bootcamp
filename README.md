@@ -5,3 +5,5 @@
 #### Designing and mocking APIs
 
 #### Debugging and manual testing
+
+#### Automated testing
